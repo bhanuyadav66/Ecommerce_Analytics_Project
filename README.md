@@ -29,9 +29,9 @@ Regular customers form 70% of customer base
 Churn probability strongly correlated with recency
 
 📷 Dashboard Preview
+
 ![churn_dashboard](image.png)
-![churn1_dashboars](<img width="1286" height="662" alt="image" src="https://github.com/user-attachments/assets/484a89bc-fc8a-4e68-9c83-eff2d9ea24d0" />
-)
+![churn1_dashboars]()
 
 📂 Project Structure
 
