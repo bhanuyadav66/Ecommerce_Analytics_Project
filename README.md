@@ -31,7 +31,7 @@ Churn probability strongly correlated with recency
 📷 Dashboard Preview
 
 ![churn_dashboard](image.png)
-![churn1_dashboars]()
+![churn1_dashboars](https://github.com/bhanuyadav66/Ecommerce_Analytics_Project/blob/main/Screenshot%202026-03-03%20122751.png)
 
 📂 Project Structure
 
